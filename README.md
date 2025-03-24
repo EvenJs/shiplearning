@@ -12,4 +12,3 @@ Run the script in file "run.py" to initialize everything.
 Next you can use the function runQLearning() to perform the learning procedures.
 
 Hyperparameters and such can be set in the rlui.ini file.
-123
